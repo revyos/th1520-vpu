@@ -1,0 +1,3 @@
+KERNEL=="vidmem", MODE="0666"
+KERNEL=="hantrodec", MODE="0666"
+KERNEL=="vc8000", MODE="0666"

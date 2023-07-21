@@ -1,0 +1,18 @@
+Source: th1520-vpu
+Section: misc
+Priority: optional
+Maintainer: Han Gao <gaohan@iscas.ac.cn>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.6.1
+Rules-Requires-Root: no
+
+Package: th1520-vpu
+Architecture: riscv64
+Multi-Arch: foreign
+Depends: ${misc:Depends}, 
+  gstreamer1.0-omx-generic,
+  gstreamer1.0-plugins-bad,
+  gstreamer1.0-omx-bellagio-config,
+  libomxil-bellagio-bin,
+  libomxil-bellagio0
+Description: th1520 vpu addons of the RevyOS

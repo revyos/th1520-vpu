@@ -1,0 +1,6 @@
+usr/lib/riscv64-linux-gnu/libomxil-bellagio0/libOMX.hantro.H2.image.encoder.so
+usr/lib/riscv64-linux-gnu/libomxil-bellagio0/libOMX.hantro.H2.video.encoder.so
+usr/lib/riscv64-linux-gnu/libomxil-bellagio0/libOMX.hantro.VC8000D.image.decoder.so
+usr/lib/riscv64-linux-gnu/libomxil-bellagio0/libOMX.hantro.VC8000D.video.decoder.so
+lib/udev/rules.d/70-hantro.rules
+lib/modules-load.d/hantro.conf
