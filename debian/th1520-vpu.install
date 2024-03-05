@@ -1,3 +1,6 @@
+usr/include/omxil/OMX_CsiExt.h
+#usr/bin/omxdectest
+#usr/bin/omxenctest
 usr/lib/riscv64-linux-gnu/libomxil-bellagio0/libOMX.hantro.H2.image.encoder.so
 usr/lib/riscv64-linux-gnu/libomxil-bellagio0/libOMX.hantro.H2.video.encoder.so
 usr/lib/riscv64-linux-gnu/libomxil-bellagio0/libOMX.hantro.VC8000D.image.decoder.so

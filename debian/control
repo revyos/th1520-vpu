@@ -2,7 +2,8 @@ Source: th1520-vpu
 Section: misc
 Priority: optional
 Maintainer: Han Gao <gaohan@iscas.ac.cn>
-Build-Depends: debhelper-compat (= 13)
+Build-Depends: debhelper-compat (= 13),
+  libomxil-bellagio0
 Standards-Version: 4.6.1
 Rules-Requires-Root: no
 
