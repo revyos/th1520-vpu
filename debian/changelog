@@ -1,3 +1,9 @@
+th1520-vpu (1.5.4) unstable; urgency=medium
+
+  * Sync sdk 1.5.4 vpu-omxil
+
+ -- Han Gao <gaohan@iscas.ac.cn>  Wed, 08 May 2024 18:29:08 +0800
+
 th1520-vpu (1.4.2) unstable; urgency=medium
 
   * Sync sdk 1.4.2 vpu-omxil
